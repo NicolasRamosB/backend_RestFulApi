@@ -1,0 +1,24 @@
+h1{
+    text-align: center;
+    background:rgb(68, 77, 161);
+}
+
+h3{
+    text-align: center;
+    background:rgb(68, 77, 161);
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+    gap: 10px;
+}
+
+input{
+    text-align: center;
+    width: 30%;
+    padding:5px;
+}
